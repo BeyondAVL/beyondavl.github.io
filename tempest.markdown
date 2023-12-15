@@ -38,4 +38,5 @@ permalink: /tempest_of_worlds/
 - On the beach Oren bargains for goggles of detection. We decide to walk into the desert. We notice nothing.
 - Eventually we see what might be small shimmering flying creatures in the distance. 
 - We set up a tarp to shelter and rest and SUDDENLY we see a giant white bird floating through the sky. It then fades out of vision a bit early.
-- 
+- Then SUDDENLY (FOR REAL THIS TIME) a giant sand worm appears.
+- - 
