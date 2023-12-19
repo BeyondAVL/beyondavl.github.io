@@ -4,7 +4,7 @@ title: Tempest of Worlds
 permalink: /tempest_of_worlds/
 ---
 # World
-[Thrakis](/_assets/Thrakis.jpg)
+![Thrakis](/_assets/Thrakis.jpg)
 - Party met in town of northu during fall festival. 
 
 # Characters
