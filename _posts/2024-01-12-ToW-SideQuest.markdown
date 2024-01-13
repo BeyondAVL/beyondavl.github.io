@@ -13,3 +13,5 @@ categories: session
 - We enter another shop cluttered with trinkets and artifacts. We rifle through drawers, Mel steals a dull dagger made of stone. Cephas uses illusion magic to steal a crystal ball from two entranced individuals. The ball seems to draw people in, so Cephas only touches it with his cloak and don't look into it. We continue to feel pulses and decide to visit the apothecary.
 - At the apothecary, Cephas uses illusion magic to manifest a form and purchase a vial of resistance potion. As he tries to take it strong psychic magic forces his hand away and breaks his concentration. He vanishes. Mel picks up the vial and they each drink some.
 - Armed with some resistance, they decide to seek the source of the psychic lure.
+- We follow the pull out of the town via a trail and follow the trail for some distance before the lure pulls us off of the trail headed due east onto the plains.
+- 
