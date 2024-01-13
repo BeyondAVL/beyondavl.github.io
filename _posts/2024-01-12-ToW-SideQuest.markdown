@@ -15,4 +15,7 @@ categories: session
 - Armed with some resistance, they decide to seek the source of the psychic lure.
 - We follow the pull out of the town via a trail and follow the trail for some distance before the lure pulls us off of the trail headed due east onto the plains.
 - Eventually we arrive at the mouth of a cave. Upon entering, we find a monk sitting atop a boulder. Cephas, seeing into the ethereal realm, sees the manifestation of a dragon superimposed with his image.
-- It is clear that he has been watching us for some time. He invites us to join him in his work - the weaving of realities.
+- It is clear that he has been watching us for some time. He invites us to join him in his work - the weaving of realities. We inquire about his purpose and he suggests that he seeks to weave realities for all as society can continue if controlled. He claims to be a weaver of dreams. He is one of three powerful weavers and he would like us to join the lower ranks and makes clear that refusal is not an option. 
+- After much discussion he offers us a trial. If we succeed we can go forth from the dream until some future date. If we fail, we must begin training as dreamweavers. We may either fight him or a creature of his choosing. We choose creature.
+- He immediately vanishes and in his place a giant spider appears, but the ethereal image remains as Cephas' vision into the ethereal realm fades.
+- We battle the spider for several minutes. Mel slashes and hacks at it with her sword spilling copious blood. Cephas becomes a set of flitting copies. Finally, Cephas slays the spider with a spell that causes it to disintegrate into crumbling ash.
