@@ -14,4 +14,5 @@ categories: session
 - At the apothecary, Cephas uses illusion magic to manifest a form and purchase a vial of resistance potion. As he tries to take it strong psychic magic forces his hand away and breaks his concentration. He vanishes. Mel picks up the vial and they each drink some.
 - Armed with some resistance, they decide to seek the source of the psychic lure.
 - We follow the pull out of the town via a trail and follow the trail for some distance before the lure pulls us off of the trail headed due east onto the plains.
+- Eventually we arrive at the mouth of a cave. Upon entering, we find a monk sitting atop a boulder. Cephas, seeing into the ethereal realm, sees the manifestation of a dragon superimposed with his image.
 - 
