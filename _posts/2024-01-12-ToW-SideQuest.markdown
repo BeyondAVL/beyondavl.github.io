@@ -15,4 +15,4 @@ categories: session
 - Armed with some resistance, they decide to seek the source of the psychic lure.
 - We follow the pull out of the town via a trail and follow the trail for some distance before the lure pulls us off of the trail headed due east onto the plains.
 - Eventually we arrive at the mouth of a cave. Upon entering, we find a monk sitting atop a boulder. Cephas, seeing into the ethereal realm, sees the manifestation of a dragon superimposed with his image.
-- 
+- It is clear that he has been watching us for some time. He invites us to join him in his work - the weaving of realities.
