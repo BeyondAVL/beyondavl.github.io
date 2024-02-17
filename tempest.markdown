@@ -16,6 +16,7 @@ permalink: /tempest_of_worlds/
 - AaaK; ararakrakrakrakr
 - Caspien Lightfoot; bunny
 - Oren; auto-gnome
+- Griffith; human fighter
 
 # Interesting Loot
 - Magical book, connected to Temple of Torog (God of the Underdark), has strong connections to city of Eldrystone, Cephas.
