@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tow SideQuest"
+title:  "2024-01-12 Tow SideQuest"
 date:   2024-01-12 20:58:42 -0500
 categories: session
 ---

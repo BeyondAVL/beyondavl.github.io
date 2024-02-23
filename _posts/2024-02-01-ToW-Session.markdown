@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Previous ToW Sessions"
+title:  "2024-02-01 ToW Session"
 date:   2024-02-01 20:58:42 -0500
 categories: session
 ---
