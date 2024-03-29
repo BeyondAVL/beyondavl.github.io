@@ -19,3 +19,4 @@ categories: session
 - Claus walks over to the wall and presses the wall. It morphs into a giant fireplace with tendrils of flames that separate and between them a walkway leads to an arch.
 - We walk through and find ourselves in a deep forest with sparse snow. We follow the magical compass that Claus gave to Oren.
 - We find a frenzy of footprints, some humanoid, some hooved, we follow a trail of hooves and blood. 
+
