@@ -15,4 +15,4 @@ categories: session
     - They tell us they don't need water.
     - Eventually real Galeb appears and we discover the other Galebs were some kind of enchantment.
 - We travel around a bit, indecisive and find ourselves near the water where Oren decides to fish. He catches something gargantuan and it's INITIATIVE (again):
-    - 
+    - We battled an Aboleth and defeated it at great cost.
