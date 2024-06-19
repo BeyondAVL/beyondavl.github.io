@@ -23,5 +23,5 @@ categories: session
     - Pageturn throws his bow to the ground and begins to mutter, casting eldritch blast.
     - We battle a while longer with Oren and Ravin healing party members.
     - Eventually Griffith fells the baby dragon. Initiative ends.
-- 
+- We loot the dragon collecting various items.
 

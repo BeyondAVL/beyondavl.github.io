@@ -6,6 +6,16 @@ permalink: /tempest_of_worlds/
 # World
 [Map of Thrakis](/assets/Thrakis.jpg)
 - Party met in town of northu during fall festival. 
+## Cities
+
+### Northu
+#### Shops
+- Apothecary
+- Armorer
+- Farmer's Market
+- Bazaar
+- Blacksmith
+
 
 # Characters
 - Cephas Sunderstone; deep gnome wizard
