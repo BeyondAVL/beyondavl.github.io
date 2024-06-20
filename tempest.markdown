@@ -16,6 +16,11 @@ permalink: /tempest_of_worlds/
 - Bazaar
 - Blacksmith
 
+### Braket
+#### Shops
+- Blue Dragon Inn
+- Blacksmith
+
 
 # Characters
 - Cephas Sunderstone; deep gnome wizard
