@@ -3,10 +3,11 @@ layout: page
 title: Tempest of Worlds
 permalink: /tempest_of_worlds/
 ---
-# World
+# Map
 [Map of Thrakis](/assets/Thrakis.jpg)
 - Party met in town of northu during fall festival. 
-## Cities
+
+# Cities
 
 ### Northu
 #### Shops
