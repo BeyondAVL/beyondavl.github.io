@@ -10,6 +10,7 @@ permalink: /tempest_of_worlds/
 
 ### Northu
 #### Shops
+- Blue Dragon Inn
 - Apothecary
 - Armorer
 - Farmer's Market
@@ -18,8 +19,16 @@ permalink: /tempest_of_worlds/
 
 ### Braket
 #### Shops
-- Blue Dragon Inn
+- Green Dragon Inn
 - Blacksmith
+
+
+### Ceanatha
+#### Shops
+- Red Dragon Inn
+- Apothecary
+#### Special Areas
+- Docks
 
 
 # Characters
