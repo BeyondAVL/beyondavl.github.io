@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Session Log"
+title:  "2025-01-28 ToW Session"
 date:   2025-01-28 20:00:00 -0500
 categories: session
 ---
 
 # Session Log
-12. The group continues their journey into town, accompanied by Gittlemox, the mischievous fairy dragon. After some persuasion, Gittlemox agrees to guide us to a place where food might be found. We arrive at a peculiar location with a glowing, rune-covered door 30 feet above ground.
+The group continues their journey into town, accompanied by Gittlemox, the mischievous fairy dragon. After some persuasion, Gittlemox agrees to guide us to a place where food might be found. We arrive at a peculiar location with a glowing, rune-covered door 30 feet above ground.
 
 Aarrak flies up and reads the runes while Gittlemox encourages us to “use our hands.” Doing so opens the door, revealing a chamber with an 80-foot drop and no stairs. Cephas casts a portal to safely lower the party down.
 

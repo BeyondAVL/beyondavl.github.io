@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Session Log"
+title:  "2025-04-02 ToW Session"
 date:   2025-04-02 20:00:00 -0500
 categories: session
 ---
 
 # Session Log
-15. After a short rest, the group proceeds down the temple hallway from which their recent attackers came. They reach a dead-end with three doors — right, left, and center. While attempting to investigate, part of the hallway collapses. The party rushes through the door on the right, passing through a series of rooms and stairs, ultimately reaching their residential quarters.
+After a short rest, the group proceeds down the temple hallway from which their recent attackers came. They reach a dead-end with three doors — right, left, and center. While attempting to investigate, part of the hallway collapses. The party rushes through the door on the right, passing through a series of rooms and stairs, ultimately reaching their residential quarters.
 
 There, they discover Griffith is missing. However, his sword and remnants of his gauntlets are found shoved into tears in the mattress.
 

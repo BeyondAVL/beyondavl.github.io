@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Session Log"
+title:  "2025-02-26 ToW Session"
 date:   2025-02-26 20:00:00 -0500
 categories: session
 ---
 
 # Session Log
-14. Unsure how to ascend the 80-foot drop they descended earlier, the party follows Gittlemox’s guidance and heads two tunnels left of the original hallway. They arrive in a massive chamber and realize they are aboard a large, anchored boat.
+Unsure how to ascend the 80-foot drop they descended earlier, the party follows Gittlemox’s guidance and heads two tunnels left of the original hallway. They arrive in a massive chamber and realize they are aboard a large, anchored boat.
 
 Investigating the three deck rooms, Ravin triggers a trap in the third room — disguised bookshelves release water rapidly. Gittlemox recommends hiding in the first room, where they previously survived the same trap. Before entering, Aarrak scouts the cavern ceiling and spots sealed metal doors, similar to other exits encountered. Unable to bypass them, the party locks themselves in the first room, which proves watertight.
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Session Log"
+title:  "2025-01-23 ToW Side Quest"
 date:   2025-01-23 20:00:00 -0500
 categories: session
 ---
 
 # Session Log
-11. **Side Quest:** After defeating a monster, the party steps through Mel’s portal, but Cephas, Ignara, and Ravin find themselves in a different dimension, separated from the others.
+**Side Quest:** After defeating a monster, the party steps through Mel’s portal, but Cephas, Ignara, and Ravin find themselves in a different dimension, separated from the others.
 
 The sky shows a second, unfamiliar moon alongside the one they recognize. The world resembles Calbrexi — same climate and topography — but the nearby city is metallic and alien in construction. As they approach, it seems uninhabited, with no visible wear or signs of life. They find a 500ft crater radiating heat and light. When Cephas tests the edge, it burns his foot. Soon after, a PA system announces the start of the day.
 

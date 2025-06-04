@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Session Log"
+title:  "2025-04-16 ToW Session"
 date:   2025-04-16 20:00:00 -0500
 categories: session
 ---
 
 # Session Log
-16. After rescuing Polydora and Palyndir, the party races deeper underground in pursuit of the remaining enemies. They arrive at two large locked doors. As they deliberate on how to proceed, footsteps echo behind them. Palyndir confirms it’s the reinforcements Polydora requested, delayed by earlier skirmishes.
+After rescuing Polydora and Palyndir, the party races deeper underground in pursuit of the remaining enemies. They arrive at two large locked doors. As they deliberate on how to proceed, footsteps echo behind them. Palyndir confirms it’s the reinforcements Polydora requested, delayed by earlier skirmishes.
 
 Cephas attempts to listen through the door but hears only his own pulse. He knocks, and the doors open to reveal a force of enemy soldiers ready for battle. Allied forces split into squads and charge. The party engages on the right side of the vast chamber and, after an intense fight, secures their side before advancing to help clear the remaining enemy troops.
 

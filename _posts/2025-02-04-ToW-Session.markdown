@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Session Log"
+title:  "2025-02-04 ToW Session"
 date:   2025-02-04 20:00:00 -0500
 categories: session
 ---
 
 # Session Log
-13. The evening resumes with the party observing an underground gathering of Eladrin Elves, hosted by gnomes. Gittlemox is encouraged to steal magical items, but before that can unfold, Ravin spots four Redcaps entering the ballroom. Though they don’t attack, they patrol the room, clearly observing the attendees. The crowd responds with quiet unease, stepping aside to let them pass.
+The evening resumes with the party observing an underground gathering of Eladrin Elves, hosted by gnomes. Gittlemox is encouraged to steal magical items, but before that can unfold, Ravin spots four Redcaps entering the ballroom. Though they don’t attack, they patrol the room, clearly observing the attendees. The crowd responds with quiet unease, stepping aside to let them pass.
 
 Ravin alerts the rest of the group to their presence and history. The Redcaps split into pairs; one pair approaches the hallway entrance where the party is positioned. Ravin steps into view while Oryn, Aarrak, and Mel retreat. One Redcap sniffs Ravin closely but says nothing and eventually reunites with the others.
 

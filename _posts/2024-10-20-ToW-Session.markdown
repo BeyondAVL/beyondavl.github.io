@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Session Log"
+title:  "2024-10-20 ToW Session"
 date:   2024-10-20 20:00:00 -0500
 categories: session
 ---
 
 # Session Log
-10. We begin just after escaping the dungeon, traveling back toward the tram with the sorcerer in tow. As we depart the town where we met Percival, Ravin senses a strange, unnatural feeling — the only one among us to do so. The sensation fades as we move farther from the area.
+We begin just after escaping the dungeon, traveling back toward the tram with the sorcerer in tow. As we depart the town where we met Percival, Ravin senses a strange, unnatural feeling — the only one among us to do so. The sensation fades as we move farther from the area.
 
 We travel until nightfall and make camp under tree cover. During the night, orcs attack, along with a large, unidentified boar-like creature. The group awakens and engages in battle. After dispatching the enemies, we restrain the sorcerer again and finish resting.
 

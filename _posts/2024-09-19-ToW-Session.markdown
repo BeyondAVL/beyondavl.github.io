@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Session Log"
+title:  "2024-09-19 ToW Session"
 date:   2024-09-19 20:00:00 -0500
 categories: session
 ---
 
 # Session Log
-8. We regroup with select members as "Phillip the Wise" opens the meeting. He outlines an investigation focused on the Del Rath Walkers and their involvement with Chronomancy. Additional, unspecified nefarious issues are hinted at. It’s believed another lair exists in the planes, similar to where we previously encountered vampires and rescued Polydora.
+We regroup with select members as "Phillip the Wise" opens the meeting. He outlines an investigation focused on the Del Rath Walkers and their involvement with Chronomancy. Additional, unspecified nefarious issues are hinted at. It’s believed another lair exists in the planes, similar to where we previously encountered vampires and rescued Polydora.
 
 A rail car will take us safely to the planes, and a map will guide our exploration. We accept the mission and are promised 50g now and 100g each upon return. The group informs us Griffith is isolated due to his condition, and Oryn remains behind, constructing something.
 
